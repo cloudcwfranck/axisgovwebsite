@@ -1,0 +1,8 @@
+-qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://az-rio.webflow.io/home https://az-rio.webflow.io/what-we-do https://az-rio.webflow.io/who-we-are https://az-rio.webflow.io/insights https://az-rio.webflow.io/showcases https://az-rio.webflow.io/contact https://az-rio.webflow.io/post/discovering-webflow https://az-rio.webflow.io/showcase/quantumtech https://az-rio.webflow.io/404 https://az-rio.webflow.io/privacy -O1 "C:\Users\MCdns\axisgovwebsite\AXISGOV" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Sun, 26 Jan 2025 16:59:37, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
